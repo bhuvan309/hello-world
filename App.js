@@ -18,4 +18,6 @@ class App extends React.Components
    }
 }
 
+/*new line added*/
+
 export default App;
